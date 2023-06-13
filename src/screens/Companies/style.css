@@ -1,0 +1,17 @@
+.Companies h3 {
+    color: var(--primary);
+    font-size: 2.8rem;
+    text-align: justify;
+}
+
+.Companies .companies-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.Companies .companies-list img {
+    flex: 1;
+}

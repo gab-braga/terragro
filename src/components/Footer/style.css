@@ -1,0 +1,33 @@
+.Footer {
+    background-color: var(--primary);
+}
+
+.Footer .container {
+    display: flex;
+}
+
+.Footer .container div {
+    flex: 1;
+    padding: 2rem 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.Footer .container div a {
+    text-decoration: none;
+    color: var(--secondary);
+    font-size: 1.6rem;
+}
+
+.Footer .container div a h2 {
+    font-size: 2.8rem;
+}
+
+.Footer .container div a i {
+    font-size: 2.8rem;
+    margin-right: 20px;
+}

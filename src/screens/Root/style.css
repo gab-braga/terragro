@@ -1,0 +1,10 @@
+.Root {
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.Root main {
+    flex: 1;
+}

@@ -1,13 +1,24 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("bootstrap-icons/font/bootstrap-icons.css");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+    --primary: #12854F;
+    --secondary: #EEEEEE;
+    --overlay: linear-gradient(358.41deg, #12854F 1.32%, rgba(73, 111, 93, 0) 98.65%);
+    font-size: 10px;
+}
+
+.container {
+    width: clamp(300px, 90%, 1000px);
+    margin: 0 auto;
+}
+
+.margin-push {
+    margin-top: 120px;
 }

@@ -1,0 +1,17 @@
+.Learn .learning {
+    padding: 20px;
+    border: 1px solid var(--primary);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.Learn .learning h3 {
+    color: var(--primary);
+    font-size: 2.8rem;
+    text-align: justify;
+}
+
+.Learn .learning p {
+    font-size: 1.6rem;
+    text-align: justify;
+}

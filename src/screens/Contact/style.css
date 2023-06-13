@@ -1,0 +1,45 @@
+.Contact h3 {
+    color: var(--primary);
+    font-size: 2.8rem;
+    text-align: justify;
+}
+
+.Contact form {
+    width: clamp(300px, 100%, 400px);
+    margin: 30px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.Contact form label {
+    font-size: 1.6rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.Contact form input,
+.Contact form textarea {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 300px;
+    border: none;
+    background-color: #D9D9D9;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.Contact form input:focus,
+.Contact form textarea:focus {
+    outline: none;
+}
+
+.Contact form button {
+    background-color: var(--primary);
+    color: var(--secondary);
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    cursor: pointer;
+}

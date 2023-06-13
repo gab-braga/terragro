@@ -1,0 +1,37 @@
+.Products h3 {
+    color: var(--primary);
+    font-size: 2.8rem;
+    text-align: justify;
+}
+
+.Products .products-list {
+    margin: 50px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.Products .product {
+    width: 100%;
+    display: flex;
+    gap: 30px;
+}
+
+.Products .product img {
+    width: 32rem;
+    height: 21rem;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.Products .product span {
+    display: block;
+    color: var(--primary);
+    font-size: 2.4rem;
+    margin-bottom: 20px;
+}
+
+.Products .product p {
+    font-size: 1.6rem;
+    text-align: justify;
+}
