@@ -20,7 +20,7 @@
 .Footer .container div a {
     text-decoration: none;
     color: var(--secondary);
-    font-size: 1.6rem;
+    font-size: 1.2rem;
 }
 
 .Footer .container div a h2 {
@@ -29,7 +29,7 @@
 
 .Footer .container div a i {
     font-size: 2.8rem;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 @media (max-width: 768px) {

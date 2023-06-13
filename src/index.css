@@ -29,9 +29,3 @@
         font-size: 8px;
     }
 }
-
-@media (max-width: 900px) {
-    :root {
-        font-size: 6px;
-    }
-}

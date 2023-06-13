@@ -11,7 +11,9 @@ function Header() {
                     <h1>Terragro</h1>
                 </div>
                 <nav>
-                    <label htmlFor="checkbox_toggle" className="hamburger">&#9776;</label>
+                    <label htmlFor="checkbox_toggle" className="hamburger">
+                        <i className="bi bi-list"></i>
+                    </label>
                     <input type="checkbox" id="checkbox_toggle" />
                     <div className="menu">
                         <Link to="/">Home</Link>
