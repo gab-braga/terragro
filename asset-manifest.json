@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/terragro/static/css/main.d8aef915.css",
-    "main.js": "/terragro/static/js/main.b5b7513e.js",
+    "main.js": "/terragro/static/js/main.50aea2ec.js",
     "static/media/background.png": "/terragro/static/media/background.659f92f54f8ea5f71735.png",
     "static/media/product-1.png": "/terragro/static/media/product-1.f3a56419ddc9894cf4d7.png",
     "static/media/product-6.png": "/terragro/static/media/product-6.7223d0f93539e896748f.png",
@@ -17,10 +17,10 @@
     "static/media/logo.svg": "/terragro/static/media/logo.f1b1060af8157cde73271d2c4ccd1aad.svg",
     "index.html": "/terragro/index.html",
     "main.d8aef915.css.map": "/terragro/static/css/main.d8aef915.css.map",
-    "main.b5b7513e.js.map": "/terragro/static/js/main.b5b7513e.js.map"
+    "main.50aea2ec.js.map": "/terragro/static/js/main.50aea2ec.js.map"
   },
   "entrypoints": [
     "static/css/main.d8aef915.css",
-    "static/js/main.b5b7513e.js"
+    "static/js/main.50aea2ec.js"
   ]
 }
