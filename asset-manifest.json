@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/terragro/static/css/main.d8aef915.css",
+    "main.js": "/terragro/static/js/main.b5b7513e.js",
+    "static/media/background.png": "/terragro/static/media/background.659f92f54f8ea5f71735.png",
+    "static/media/product-1.png": "/terragro/static/media/product-1.f3a56419ddc9894cf4d7.png",
+    "static/media/product-6.png": "/terragro/static/media/product-6.7223d0f93539e896748f.png",
+    "static/media/product-2.png": "/terragro/static/media/product-2.dada82ec55c6fe79769f.png",
+    "static/media/product-3.png": "/terragro/static/media/product-3.398faacf2e931dae05ba.png",
+    "static/media/product-5.png": "/terragro/static/media/product-5.0468701b2ebb0b8293f2.png",
+    "static/media/product-7.png": "/terragro/static/media/product-7.c1fb91751113c3526ce7.png",
+    "static/media/product-4.png": "/terragro/static/media/product-4.6c03031a3ea2a9ef30ae.png",
+    "static/media/bootstrap-icons.woff?": "/terragro/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/terragro/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/image-06.png": "/terragro/static/media/image-06.73b0479de01152150a2b.png",
+    "static/media/image-09.png": "/terragro/static/media/image-09.44ca49233791421f372e.png",
+    "static/media/logo.svg": "/terragro/static/media/logo.f1b1060af8157cde73271d2c4ccd1aad.svg",
+    "index.html": "/terragro/index.html",
+    "main.d8aef915.css.map": "/terragro/static/css/main.d8aef915.css.map",
+    "main.b5b7513e.js.map": "/terragro/static/js/main.b5b7513e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8aef915.css",
+    "static/js/main.b5b7513e.js"
+  ]
+}
