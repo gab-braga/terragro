@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/terragro/static/css/main.8615ed4d.css",
-    "main.js": "/terragro/static/js/main.d659b963.js",
+    "main.css": "/terragro/static/css/main.d5d88b71.css",
+    "main.js": "/terragro/static/js/main.fddd17ba.js",
     "static/media/background.png": "/terragro/static/media/background.659f92f54f8ea5f71735.png",
     "static/media/product-1.png": "/terragro/static/media/product-1.f3a56419ddc9894cf4d7.png",
     "static/media/product-6.png": "/terragro/static/media/product-6.7223d0f93539e896748f.png",
@@ -12,15 +12,17 @@
     "static/media/product-4.png": "/terragro/static/media/product-4.6c03031a3ea2a9ef30ae.png",
     "static/media/bootstrap-icons.woff?": "/terragro/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
     "static/media/bootstrap-icons.woff2?": "/terragro/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/image-06.png": "/terragro/static/media/image-06.73b0479de01152150a2b.png",
-    "static/media/image-09.png": "/terragro/static/media/image-09.44ca49233791421f372e.png",
+    "static/media/image-09.png": "/terragro/static/media/image-09.adb0d3af335596ac3d45.png",
+    "static/media/image-06.png": "/terragro/static/media/image-06.5200e214f6a0250f651c.png",
+    "static/media/image-05.png": "/terragro/static/media/image-05.8e345d28fc155c8a5802.png",
+    "static/media/image-10.png": "/terragro/static/media/image-10.790b8b1b182d50e95b25.png",
     "static/media/logo.svg": "/terragro/static/media/logo.f1b1060af8157cde73271d2c4ccd1aad.svg",
     "index.html": "/terragro/index.html",
-    "main.8615ed4d.css.map": "/terragro/static/css/main.8615ed4d.css.map",
-    "main.d659b963.js.map": "/terragro/static/js/main.d659b963.js.map"
+    "main.d5d88b71.css.map": "/terragro/static/css/main.d5d88b71.css.map",
+    "main.fddd17ba.js.map": "/terragro/static/js/main.fddd17ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.8615ed4d.css",
-    "static/js/main.d659b963.js"
+    "static/css/main.d5d88b71.css",
+    "static/js/main.fddd17ba.js"
   ]
 }
