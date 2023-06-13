@@ -25,15 +25,44 @@
     font-size: 2.8rem;
 }
 
-.Header nav {
+.Header .menu {
+    background-color: var(--primary);
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 20px;
 }
 
-.Header nav a {
+.Header .menu a {
     font-size: 1.6rem;
     text-decoration: none;
     color: var(--secondary);
+}
+
+.Header input[type=checkbox] {
+    display: none;
+}
+
+.Header .hamburger {
+    display: none;
+    font-size: 30px;
+}
+
+@media (max-width: 768px) {
+    .Header .hamburger {
+        display: block;
+    }
+
+    .Header .menu {
+        flex-direction: column;
+        display: none;
+        position: absolute;
+        padding: 20px 0;
+        right: 0;
+        left: 0;
+    }
+
+    .Header input[type=checkbox]:checked + .menu {
+        display: flex !important;
+    }
 }

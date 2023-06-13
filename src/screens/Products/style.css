@@ -35,3 +35,14 @@
     font-size: 1.6rem;
     text-align: justify;
 }
+
+@media (max-width: 768px) {
+    .Products .product {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .Products .product img {
+        width: 100%;
+    }
+}

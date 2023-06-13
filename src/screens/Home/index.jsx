@@ -7,7 +7,7 @@ function Home() {
         <div className="Home" style={{ backgroundImage: `url(${background})` }}>
             <div className="overlay">
                 <div style={{textAlign: "center"}}>
-                    <img src={logo} alt="Logo Terragro" />
+                    <img src={logo} alt="Logo Terragro" /> <br />
                     <h2>Terragro</h2> <br />
                     <h3>Suporte completo para agro no Brasil</h3>
                 </div>
