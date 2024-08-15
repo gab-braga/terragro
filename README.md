@@ -10,7 +10,7 @@ informações valiosas aos visitantes, sejam eles agricultores, investidores, pa
 * CSS
 
  ## Como Usar
- 1. Clone o repositório: `git clone https://github.com/F-Gabriel-Braga/terragro`
+ 1. Clone o repositório: `git clone https://github.com/gab-braga/terragro`
  2. Acesse o diretório do projeto: `cd terragro`
  3. Instale as dependências: `npm install`
  4. Inicie o aplicativo: `npm start`
@@ -24,4 +24,4 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 5. Crie um pull request.
 
 ## Visualização
-![Captura de tela 2023-11-03 142322](https://github.com/F-Gabriel-Braga/terragro/assets/66652642/c37e2baf-3569-4f9d-95aa-d77f309642fd)
+![Captura de tela 2023-11-03 142322](https://github.com/gab-braga/terragro/assets/66652642/c37e2baf-3569-4f9d-95aa-d77f309642fd)
